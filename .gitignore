@@ -1,0 +1,28 @@
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Google credentials
+service_account.json
+*service-account*.json
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
